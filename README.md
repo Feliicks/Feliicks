@@ -42,44 +42,79 @@ I enjoy turning ideas into real projects, exploring new technologies, and sharin
 
 # 💻 Tech Stack
 
-## Mobile
+## 📱 Mobile Development
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase&theme=dark" />
+</p>
 
----
+**Technologies**
 
-## Backend
-
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
-
-![REST API](https://img.shields.io/badge/REST_API-blue?style=for-the-badge)
-
----
-
-## Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+- Jetpack Compose
+- Android SDK
+- Material Design
+- Coroutines
+- Hilt
+- Retrofit
+- Room
 
 ---
 
-## Databases
+## 🏛️ Software Architecture
 
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
+- MVVM
+- Clean Architecture
+- Repository Pattern
+- Dependency Injection
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+---
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+## ⚙️ Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring&theme=dark" />
+</p>
+
+**Experience with**
+
+- REST APIs
+- JSON
+- HTTP/HTTPS
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,githubactions&theme=dark" />
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql&theme=dark" />
+</p>
+
+---
+
+## 🛠️ Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,figma&theme=dark" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- AWS Cloud
+- Docker & Containers
+- Linux Administration
+- Spring Boot
+- GitHub Actions
+- DevOps Fundamentals
 
 ---
 
