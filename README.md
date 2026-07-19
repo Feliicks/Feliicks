@@ -22,21 +22,11 @@ Building Android apps 📱 • Learning AWS ☁️ • Growing my Homelab 🐳
 
 ## 👨🏻‍💻 About Me
 
-I'm a Software Engineer based in **LATAM** with a strong passion for building high-quality software and continuously learning modern technologies.
+I'm a Software Engineer based in LATAM passionate about building high-quality mobile applications and continuously expanding my knowledge in cloud technologies and software engineering.
 
 My primary expertise is Android development using Kotlin, while I actively expand my skills in Cloud Computing, Linux, Docker, Backend Development, and DevOps.
 
 I enjoy turning ideas into real projects, exploring new technologies, and sharing my learning journey through GitHub.
----
-
-## 🚀 Currently
-
-- 📱 Building Android applications with Kotlin
-- ☁️ Preparing for AWS Certifications
-- 🐳 Expanding my Docker Homelab
-- 🐧 Learning Linux Administration
-- ⚙️ Exploring DevOps & CI/CD
-- 🌱 Always learning something new
 
 ---
 
@@ -118,24 +108,6 @@ I enjoy turning ideas into real projects, exploring new technologies, and sharin
 
 ---
 
-## Tools
-
-Android Studio
-
-IntelliJ IDEA
-
-VS Code
-
-Git
-
-Postman
-
-Figma
-
-Linux
-
----
-
 # 📌 Featured Projects
 
 ### 📱 Android Projects
@@ -209,7 +181,7 @@ A place where I experiment with
 
 📧 felix.fsarmiento@gmail.com
 
-💼 https://linkedin.com/in/felixsarmiento
+💼 https://www.linkedin.com/in/felicks/
 
 ---
 
